@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,seetong.com
+IP-CIDR,36.155.0.0/16,no-resolve
 IP-CIDR,42.234.79.0/24,no-resolve
 IP-CIDR,119.29.29.0/24,no-resolve
 IP-CIDR,101.35.212.0/24,no-resolve
