@@ -5,9 +5,8 @@ DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,push.apple.com
-DOMAIN-SUFFIX,push-apple.com.akadns.net
-DOMAIN,gs-loc.apple.com
-DOMAIN,captive.apple.com
+DOMAIN-SUFFIX,gs-loc.apple.com
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,catl.com
