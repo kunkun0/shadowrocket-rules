@@ -40,7 +40,8 @@ DOMAIN-SUFFIX,yfamilys.com
 IP-CIDR,17.253.0.0/16,PROXY,no-resolve
 IP-CIDR,149.154.160.0/20,PROXY,no-resolve
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve
-DOMAIN-SUFFIX,biliapi.net,PROXY
-DOMAIN-SUFFIX,bilivideo.com,PROXY
-DOMAIN-SUFFIX,akamaized.net,PROXY
-DOMAIN-SUFFIX,bilibili.com,PROXY
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,hdslb.com
