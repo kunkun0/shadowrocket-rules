@@ -3,13 +3,9 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
-
 DOMAIN-SUFFIX,googleusercontent.com
-
 DOMAIN-SUFFIX,gstatic.com
 Gemini
-
-
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gstatic.com
@@ -19,13 +15,10 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
-
-
 Tiktok
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
-
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,us
