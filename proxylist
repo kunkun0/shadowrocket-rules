@@ -32,10 +32,7 @@ DOMAIN-SUFFIX,t.co
 GitHub
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,github.dev
-DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,githubcopilot.com
 Others
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,yfamilys.com
