@@ -1,23 +1,23 @@
 DOMAIN-SUFFIX,cn
-腾讯系
+# 腾讯
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,doh.pub
-苹果系
+# 苹果
+DOMAIN-SUFFIX,ocsp2.apple.com
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,iphone-ld.apple.com
 DOMAIN-SUFFIX,gs-loc.apple.com
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,gs-loc-cn.apple.com
-DOMAIN-SUFFIX,ls.apple.com
-DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,music.apple.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,iphone-ld.apple.com
-DOMAIN,ocsp2.apple.com
 DOMAIN-SUFFIX,mzstatic.com
-阿里系
+# 阿里
 DOMAIN-SUFFIX,catl.com
 DOMAIN-SUFFIX,catlbattery.com
 DOMAIN-SUFFIX,taobao.com
@@ -30,18 +30,18 @@ DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,dns.alidns.com
-银行
+# 银行
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,bankcomm.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
-购物
+# 购物
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,yangkeduo.com
-社交娱乐
+# 社交娱乐
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,coolapk.com
@@ -52,26 +52,27 @@ DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinliving.com
-其它
+# 其它
 DOMAIN-SUFFIX,seetong.com
 DOMAIN-SUFFIX,baidu.com
-IP-CIDR,14.0.0.0/8,no-resolve⁠
+IP-CIDR,14.0.0.0/8,no-resolve
+IP-CIDR,36.0.0.0/8,no-resolve⁠
 IP-CIDR,39.0.0.0/8,no-resolve⁠
-IP-CIDR,180.0.0.0/8,no-resolve⁠
-IP-CIDR,183.0.0.0/8,no-resolve
-IP-CIDR,111.0.0.0/8,no-resolve
-IP-CIDR,120.0.0.0/8,no-resolve
-IP-CIDR,117.0.0.0/8,no-resolve
-IP-CIDR,223.0.0.0/8,no-resolve
-IP-CIDR,36.0.0.0/8,no-resolve
-IP-CIDR,112.0.0.0/8,no-resolve
 IP-CIDR,42.0.0.0/8,no-resolve
-IP-CIDR,110.0.0.0/8,no-resolve
-IP-CIDR,203.119.0.0/16,no-resolve
 IP-CIDR,59.82.0.0/16,no-resolve
-IP-CIDR,221.181.0.0/16,no-resolve
+IP-CIDR,101.35.212.0/24,no-resolve
+IP-CIDR,110.0.0.0/8,no-resolve
+IP-CIDR,111.0.0.0/8,no-resolve
+IP-CIDR,112.0.0.0/8,no-resolve
+IP-CIDR,117.0.0.0/8,no-resolve
 IP-CIDR,114.110.97.0/24,no-resolve
 IP-CIDR,119.29.29.0/24,no-resolve
-IP-CIDR,101.35.212.0/24,no-resolve
+IP-CIDR,120.0.0.0/8,no-resolve
+IP-CIDR,153.0.199.0/24,no-resolve
+IP-CIDR,180.0.0.0/8,no-resolve⁠
+IP-CIDR,183.0.0.0/8,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
+IP-CIDR,203.119.0.0/16,no-resolve
+IP-CIDR,221.181.0.0/16,no-resolve
+IP-CIDR,223.0.0.0/8,no-resolve
 DOMAIN-KEYWORD,webank
