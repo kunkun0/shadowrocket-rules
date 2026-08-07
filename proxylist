@@ -1,14 +1,17 @@
+先锋
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,us
 谷歌
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,tw
+
 B站
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,bilivideo.com
@@ -22,7 +25,6 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,revenuecat.com
 洋抖
-DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,tiktok.com
