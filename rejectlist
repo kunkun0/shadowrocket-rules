@@ -1,5 +1,5 @@
 先锋
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,snapkit.com
 DOMAIN-SUFFIX,oraclecloud.com
@@ -82,15 +82,13 @@ DOMAIN-SUFFIX,atanx.alicdn.com
 DOMAIN-SUFFIX,click.aliyun.com
 DOMAIN-SUFFIX,hydra.alibaba.com
 字节
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+
 DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
 DOMAIN-SUFFIX,pangle.io
 DOMAIN-SUFFIX,pangle-b.io
 DOMAIN-SUFFIX,pglstatp.com
 DOMAIN-SUFFIX,pglstatp1.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,applog.com
 DOMAIN-SUFFIX,log.byteoversea.com
 DOMAIN-SUFFIX,byteoversea.com
@@ -104,6 +102,8 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,dg.k.jd.com
+DOMAIN-SUFFIX,ctobsnssdk.com
 哔哩哔哩
 DOMAIN-SUFFIX,data.bilibili.com
 DOMAIN-SUFFIX,dataflow.biliapi.com
