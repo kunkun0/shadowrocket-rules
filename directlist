@@ -53,6 +53,10 @@ DOMAIN-SUFFIX,douyinliving.com
 其它
 DOMAIN-SUFFIX,seetong.com
 DOMAIN-SUFFIX,baidu.com
+IP-CIDR,14.0.0.0/8,no-resolve⁠
+IP-CIDR,39.0.0.0/8,no-resolve⁠
+
+IP-CIDR,180.0.0.0/8,no-resolve⁠
 IP-CIDR,183.0.0.0/8,no-resolve
 IP-CIDR,111.0.0.0/8,no-resolve
 IP-CIDR,120.0.0.0/8,no-resolve
