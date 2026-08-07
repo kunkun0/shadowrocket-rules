@@ -55,8 +55,8 @@ DOMAIN-SUFFIX,seetong.com
 DOMAIN-SUFFIX,baidu.com
 IP-CIDR,120.0.0.0/8,no-resolve
 IP-CIDR,117.0.0.0/8,no-resolve
-IP-CIDR,223.109.0.0/16,no-resolve
-IP-CIDR,36.155.0.0/16,no-resolve
+IP-CIDR,223.0.0.0/8,no-resolve
+IP-CIDR,36.0.0.0/8,no-resolve
 IP-CIDR,42.234.79.0/24,no-resolve
 IP-CIDR,119.29.29.0/24,no-resolve
 IP-CIDR,101.35.212.0/24,no-resolve
