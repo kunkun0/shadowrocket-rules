@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,snapkit.com
 苹果
+DOMAIN-SUFFIX,analytics.apple.com
+DOMAIN-SUFFIX,app-analytics.apple.com
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,iadcontent.apple.com
@@ -9,8 +12,7 @@ DOMAIN-SUFFIX,advertising.apple.com
 DOMAIN-SUFFIX,ads.apple.com
 DOMAIN-SUFFIX,adservices.apple.com
 DOMAIN-SUFFIX,searchads.apple.com
-DOMAIN-SUFFIX,app-analytics.apple.co
-DOMAIN-SUFFIX,app-analytics-services.com
+
 谷歌
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagmanager.com
