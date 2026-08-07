@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,snapkit.com
+DOMAIN-SUFFIX,oraclecloud.com
 苹果
 DOMAIN-SUFFIX,analytics.apple.com
 DOMAIN-SUFFIX,app-analytics.apple.com
@@ -25,6 +26,7 @@ DOMAIN-SUFFIX,analytics.google.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,adsense.com
 国外广告
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
