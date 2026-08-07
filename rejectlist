@@ -59,7 +59,12 @@ DOMAIN-SUFFIX,report.qq.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,tmead.y.qq.com
 阿里
-DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,audid-api.taobao.com
+DOMAIN-SUFFIX,amdc.alipay.com
+DOMAIN-SUFFIX,mum.alibabachengdun.com
+DOMAIN-SUFFIX,loggw-ex.alipay.com
+DOMAIN-SUFFIX,effirst.com
+
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,ut.taobao.com
