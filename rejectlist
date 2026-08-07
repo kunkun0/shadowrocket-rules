@@ -20,11 +20,12 @@ DOMAIN-SUFFIX,ads-api.twitter.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,doubleclick.net
+firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,analytics.google.com
 DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,adsense.com
+
 国外广告
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appsflyer.com
