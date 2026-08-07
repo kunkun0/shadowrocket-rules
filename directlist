@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,iphone-ld.apple.com
+DOMAIN,ocsp2.apple.com
 DOMAIN-SUFFIX,mzstatic.com
 阿里系
 DOMAIN-SUFFIX,catl.com
@@ -56,7 +57,6 @@ DOMAIN-SUFFIX,seetong.com
 DOMAIN-SUFFIX,baidu.com
 IP-CIDR,14.0.0.0/8,no-resolve⁠
 IP-CIDR,39.0.0.0/8,no-resolve⁠
-
 IP-CIDR,180.0.0.0/8,no-resolve⁠
 IP-CIDR,183.0.0.0/8,no-resolve
 IP-CIDR,111.0.0.0/8,no-resolve
