@@ -101,11 +101,7 @@ DOMAIN-SUFFIX,mob.com
 哔哩哔哩
 DOMAIN-SUFFIX,data.bilibili.com
 DOMAIN-SUFFIX,cm.bilibili.com
-DOMAIN-SUFFIX,app.bilibili.com
 DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,line1-log.biligame.net
-DOMAIN-SUFFIX,line3-log.biligame.net
-DOMAIN-SUFFIX,line1-sdkcenter-login-sh.biligame.net
 小红书
 DOMAIN-SUFFIX,lng.xiaohongshu.com
 DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
