@@ -68,4 +68,5 @@ IP-CIDR,114.110.97.0/24,no-resolve
 IP-CIDR,112.13.0.0/16,no-resolve
 IP-CIDR,42.234.0.0/16,no-resolve
 IP-CIDR,59.82.0.0/16,no-resolve
+IP-CIDR,221.181.0.0/16,no-resolve
 DOMAIN-KEYWORD,webank
