@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,doh.pub
 # 苹果
+DOMAIN-SUFFIX,weatherkit.apple.com
 DOMAIN-SUFFIX,ocsp2.apple.com
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,icloud.com
