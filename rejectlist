@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,searchads.apple.com
 
 DOMAIN-SUFFIX,ads-api.twitter.com
 
+DOMAIN-SUFFIX,ogads-pa.clients6.google.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,google-analytics.com
@@ -76,6 +77,7 @@ DOMAIN-SUFFIX,tenjin.io
 DOMAIN-SUFFIX,gameanalytics.com
 DOMAIN-SUFFIX,raygun.io
 
+DOMAIN-SUFFIX,urlsec.qq.com
 DOMAIN-SUFFIX,wxa.wxs.qq.com
 DOMAIN-SUFFIX,guid.tpns.tencent.com
 DOMAIN-SUFFIX,m.qq.com
