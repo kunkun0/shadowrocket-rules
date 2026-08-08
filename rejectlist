@@ -133,7 +133,9 @@ DOMAIN-SUFFIX,omgup.xiaojukeji.com
 DOMAIN-SUFFIX,mpaasmdap.hellobike.com
 DOMAIN-SUFFIX,mountaintoys.cn
 DOMAIN-SUFFIX,smtcdns.com
-
+DOMAIN-SUFFIX,myhuaweicloud.com
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,tencent-cloud.net
 IP-CIDR,123.207.209.0/24
 IP-CIDR,203.209.250.0/24
 DOMAIN-KEYWORD,pangolin
