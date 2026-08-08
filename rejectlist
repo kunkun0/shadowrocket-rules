@@ -57,6 +57,8 @@ DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,analytics.google.com
 DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,adtrafficquality.google
+
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,branch.io
