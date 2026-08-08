@@ -125,4 +125,5 @@ DOMAIN-SUFFIX,toutiaoapi.com
 DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,puata.info
+IP-CIDR,203.209.250.0/24
 DOMAIN-KEYWORD,pangolin
