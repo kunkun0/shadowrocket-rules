@@ -125,5 +125,8 @@ DOMAIN-SUFFIX,toutiaoapi.com
 DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,puata.info
+DOMAIN-SUFFIX,omgup.xiaojukeji.com
+DOMAIN-SUFFIX,mpaasmdap.hellobike.com
+IP-CIDR,123.207.209.0/24
 IP-CIDR,203.209.250.0/24
 DOMAIN-KEYWORD,pangolin
