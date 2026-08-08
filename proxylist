@@ -16,10 +16,6 @@ DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 
 DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,hdslb.com
 
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
