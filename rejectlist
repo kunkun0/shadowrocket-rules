@@ -80,7 +80,6 @@ DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,tenjin.io
 DOMAIN-SUFFIX,gameanalytics.com
 DOMAIN-SUFFIX,raygun.io
-
 DOMAIN-SUFFIX,urlsec.qq.com
 DOMAIN-SUFFIX,wxa.wxs.qq.com
 DOMAIN-SUFFIX,guid.tpns.tencent.com
@@ -102,7 +101,7 @@ DOMAIN-SUFFIX,effirst.com
 DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,ut.taobao.com
-DOMAIN-SUFFIX,adash.man.aliyuncs.com
+DOMAIN-SUFFIX,admountaintoysash.man.aliyuncs.com
 DOMAIN-SUFFIX,adashx.m.taobao.com
 DOMAIN-SUFFIX,adashx.ut.taobao.com
 DOMAIN-SUFFIX,adashbc.m.taobao.com
@@ -130,6 +129,7 @@ DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,puata.info
 DOMAIN-SUFFIX,omgup.xiaojukeji.com
 DOMAIN-SUFFIX,mpaasmdap.hellobike.com
+DOMAIN-SUFFIX,mountaintoys.cn
 IP-CIDR,123.207.209.0/24
 IP-CIDR,203.209.250.0/24
 DOMAIN-KEYWORD,pangolin
