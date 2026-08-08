@@ -81,6 +81,7 @@ IP-CIDR,117.0.0.0/8,no-resolve
 IP-CIDR,114.110.97.0/24,no-resolve
 IP-CIDR,119.29.29.0/24,no-resolve
 IP-CIDR,120.0.0.0/8,no-resolve
+IP-CIDR,140.207.0.0/16,no-resolve
 IP-CIDR,153.0.199.0/24,no-resolve
 IP-CIDR,180.0.0.0/8,no-resolve⁠
 IP-CIDR,183.0.0.0/8,no-resolve
