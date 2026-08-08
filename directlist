@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,zgglyun.com
 IP-CIDR,14.0.0.0/8,no-resolve
 IP-CIDR,36.0.0.0/8,no-resolve⁠
 IP-CIDR,39.0.0.0/8,no-resolve⁠
