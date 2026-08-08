@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,sensordata.cn
 
+DOMAIN-SUFFIX,boss.hdslb.com
+DOMAIN-SUFFIX,bimp.hdslb.com
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,lng.xiaohongshu.com
 DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
 DOMAIN-SUFFIX,t2.xiaohongshu.com
