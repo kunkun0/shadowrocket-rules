@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,us
 
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
-
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
@@ -11,6 +11,12 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,dns.google
+
+domain-suffix,chatgpt.com
+domain-suffix,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,revenuecat.com
 
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 
