@@ -143,6 +143,7 @@ DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,zhenidc.cn
 DOMAIN-SUFFIX,cube.weixinbridge.com
-IP-CIDR,123.207.209.0/24
-IP-CIDR,203.209.250.0/24
+IP-CIDR,121.5.0.0/20,no-resolve
+IP-CIDR,123.207.209.0/24,no-resolve
+IP-CIDR,203.209.250.0/24,no-resolve
 DOMAIN-KEYWORD,pangolin
