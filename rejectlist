@@ -142,6 +142,8 @@ DOMAIN-SUFFIX,getui.cn
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,zhenidc.cn
+DOMAIN-SUFFIX,gzjyh.com
+
 DOMAIN-SUFFIX,cube.weixinbridge.com
 IP-CIDR,121.5.0.0/20,no-resolve
 IP-CIDR,123.207.209.0/24,no-resolve
