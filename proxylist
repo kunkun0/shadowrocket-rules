@@ -16,12 +16,6 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 
 DOMAIN-SUFFIX,akamaized.net
 
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,revenuecat.com
-
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,tiktok.com
