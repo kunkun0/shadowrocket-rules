@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,xinqiucc.com
 DOMAIN-SUFFIX,qiezibenpao.com
 DOMAIN-SUFFIX,tianwenca.com
 DOMAIN-SUFFIX,tlivemcdn.com
+DOMAIN-SUFFIX,wxs.qq.com
 
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,umengcloud.com
@@ -138,8 +139,10 @@ DOMAIN-SUFFIX,myhuaweicloud.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,getui.cn
+DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,zhenidc.cn
+DOMAIN-SUFFIX,cube.weixinbridge.com
 IP-CIDR,123.207.209.0/24
 IP-CIDR,203.209.250.0/24
 DOMAIN-KEYWORD,pangolin
