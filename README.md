@@ -4,6 +4,8 @@
 
 https://raw.githubusercontent.com/kunkun0/shadowrocket-rules/refs/heads/main/Sun%20self%20for%20iPhone.conf
 
+https://raw.githubusercontent.com/kunkun0/shadowrocket-rules/refs/heads/main/Sun%20self%20for%20Mac.conf
+
 自用规则
 
 直连：https://raw.githubusercontent.com/kunkun0/shadowrocket-rules/refs/heads/main/directlist
