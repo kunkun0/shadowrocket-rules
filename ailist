@@ -1,3 +1,6 @@
 domain-suffix,googleapis.com
 domain-suffix,chatgpt.com
 domain-suffix,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,revenuecat.com
