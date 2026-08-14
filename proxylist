@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,io
+DOMAIN-SUFFIX,vip
 
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
@@ -10,7 +12,7 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,withgoogle.com
-DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,google
 
 domain-suffix,chatgpt.com
 domain-suffix,openai.com
@@ -39,8 +41,6 @@ DOMAIN-SUFFIX,githubcopilot.com
 
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,adguard-dns.io
-DOMAIN-SUFFIX,oldox.vip
 IP-CIDR,17.253.0.0/16,PROXY,no-resolve
 IP-CIDR,149.154.160.0/20,PROXY,no-resolve
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve
