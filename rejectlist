@@ -135,7 +135,6 @@ DOMAIN-SUFFIX,isnssdk.com
 
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,snssdk.com
-
 DOMAIN-SUFFIX,toutiaoapi.com
 DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,collector.github.com
@@ -157,6 +156,7 @@ DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,colorfulclouds.net
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,log.aliyuncs.com
+IP-CIDR,47.97.0.0/16,no-resolve
 IP-CIDR,59.82.0.0/16,no-resolve
 IP-CIDR,59.110.0.0/16,no-resolve
 IP-CIDR,121.5.0.0/20,no-resolve
@@ -166,9 +166,7 @@ IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR,203.107.6.0/23,no-resolve
 IP-CIDR,106.11.0.0/16,no-resolve
 IP-CIDR,140.205.0.0/16,no-resolve
-
 IP-CIDR,129.28.0.0/16,no-resolve
 IP-CIDR,120.53.0.0/16,no-resolve
 IP-CIDR,43.128.0.0/16,no-resolve
-
 DOMAIN-KEYWORD,pangolin
