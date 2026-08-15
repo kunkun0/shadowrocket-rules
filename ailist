@@ -1,5 +1,5 @@
 DOMAIN,push.clients6.google.com
-DOMAIN,gemini.google.com
+DOMAIN-SUFFIX,google.com
 domain-suffix,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 domain-suffix,chatgpt.com
