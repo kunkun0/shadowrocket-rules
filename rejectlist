@@ -7,7 +7,9 @@ DOMAIN,api.biliapi.com
 DOMAIN,app.biliapi.com
 DOMAIN,api.biliapi.net
 DOMAIN,app.biliapi.net
+DOMAIN,dns.weixin.qq.com.cn
 
+DOMAIN-SUFFIX,shujupie.com
 DOMAIN-SUFFIX,snapkit.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,tanx.com
