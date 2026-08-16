@@ -9,7 +9,6 @@ DOMAIN,api.biliapi.net
 DOMAIN,app.biliapi.net
 DOMAIN,dns.weixin.qq.com.cn
 
-DOMAIN-SUFFIX,shujupie.com
 DOMAIN-SUFFIX,snapkit.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,tanx.com
@@ -168,6 +167,8 @@ DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,colorfulclouds.net
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,log.aliyuncs.com
+DOMAIN-SUFFIX,czb365.com
+DOMAIN-SUFFIX,shujupie.com
 IP-CIDR,47.97.0.0/16,no-resolve
 IP-CIDR,59.82.0.0/16,no-resolve
 IP-CIDR,59.110.0.0/16,no-resolve
