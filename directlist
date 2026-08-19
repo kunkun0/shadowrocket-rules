@@ -22,6 +22,11 @@ DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,seetong.com
+DOMAIN-SUFFIX,webankapp.com
+DOMAIN-SUFFIX,webankwealth.com
+DOMAIN-SUFFIX,webankwealthcdn.net
+DOMAIN-SUFFIX,webank.com
+DOMAIN-SUFFIX,tctpwebank.com
 
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,pinduoduo.com
@@ -38,6 +43,7 @@ DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,netease.com
+
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,doh.pub
