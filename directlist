@@ -1,46 +1,32 @@
 DOMAIN-SUFFIX,cn
-# 腾讯
 DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,weixin.com
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,doh.pub
-# 苹果
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,mzstatic.com
-# 阿里
 DOMAIN-SUFFIX,catl.com
 DOMAIN-SUFFIX,catlbattery.com
-DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,dns.alidns.com
-# 银行
+DOMAIN-SUFFIX,alipayobjects.com
+
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,bankcomm.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
 
-# 购物
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,hdslb.com
+
+DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,yangkeduo.com
-# 社交娱乐
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xiaohongshu.com
+
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,amemv.com
@@ -50,6 +36,18 @@ DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,netease.com
+
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,dns.alidns.com
 # 其它
 DOMAIN-SUFFIX,seetong.com
 DOMAIN-SUFFIX,hellobike.com
@@ -71,7 +69,6 @@ IP-CIDR,111.0.0.0/8,no-resolve
 IP-CIDR,112.0.0.0/8,no-resolve
 IP-CIDR,117.0.0.0/8,no-resolve
 IP-CIDR,114.110.97.0/24,no-resolve
-
 IP-CIDR,120.0.0.0/8,no-resolve
 IP-CIDR,140.207.0.0/16,no-resolve
 IP-CIDR,153.0.199.0/24,no-resolve
