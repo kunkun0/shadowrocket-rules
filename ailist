@@ -1,10 +1,10 @@
 DOMAIN,push.clients6.google.com
 DOMAIN,gemini.gstatic.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google.com
-domain-suffix,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
-domain-suffix,chatgpt.com
-domain-suffix,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,revenuecat.com
