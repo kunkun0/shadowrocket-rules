@@ -23,6 +23,8 @@ DOMAIN,dns.weixin.qq.com.cn
 DOMAIN-SUFFIX,lng.xiaohongshu.com
 DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
 DOMAIN-SUFFIX,t2.xiaohongshu.com
+DOMAIN-SUFFIX,askdiandian.com
+
 
 DOMAIN-SUFFIX,mum.alibabachengdun.com
 DOMAIN-SUFFIX,amdc.alipay.com
