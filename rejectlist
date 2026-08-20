@@ -34,7 +34,9 @@ DOMAIN-SUFFIX,dataflow.biliapi.com
 DOMAIN-SUFFIX,cm.bilibili.com
 DOMAIN-SUFFIX,biligame.com
 
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,umeng.com
