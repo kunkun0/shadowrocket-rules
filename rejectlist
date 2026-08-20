@@ -15,6 +15,7 @@ IP-CIDR,140.205.0.0/16,no-resolve
 IP-CIDR,203.209.250.0/24,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR,203.107.6.0/23,no-resolve
+IP-CIDR,203.119.238.0/24,no-resolve
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN,firebaselogging-pa.googleapis.com
