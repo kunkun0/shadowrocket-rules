@@ -34,11 +34,12 @@ DOMAIN-SUFFIX,dataflow.biliapi.com
 DOMAIN-SUFFIX,cm.bilibili.com
 DOMAIN-SUFFIX,biligame.com
 
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,tanx.com
-DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,dg.k.jd.com
 DOMAIN-SUFFIX,appsflyersdk.com
@@ -109,7 +110,6 @@ DOMAIN-SUFFIX,urlsec.qq.com
 DOMAIN-SUFFIX,guid.tpns.tencent.com
 DOMAIN-SUFFIX,m.qq.com
 DOMAIN-SUFFIX,bugly.qq.com
-DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
@@ -182,4 +182,3 @@ DOMAIN,api.biliapi.com
 DOMAIN,app.biliapi.com
 DOMAIN,api.biliapi.net
 DOMAIN,app.biliapi.net
-DOMAIN-KEYWORD,pangolin
