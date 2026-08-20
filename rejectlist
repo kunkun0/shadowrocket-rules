@@ -15,11 +15,9 @@ IP-CIDR,140.205.0.0/16,no-resolve
 IP-CIDR,203.209.250.0/24,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR,203.107.6.0/23,no-resolve
-
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN,firebaselogging-pa.googleapis.com
-
 
 DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN,dns.weixin.qq.com.cn
@@ -28,10 +26,8 @@ DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
 DOMAIN-SUFFIX,t2.xiaohongshu.com
 DOMAIN-SUFFIX,askdiandian.com
 
-
 DOMAIN-SUFFIX,mum.alibabachengdun.com
 DOMAIN-SUFFIX,amdc.alipay.com
-
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,data.bilibili.com
 DOMAIN-SUFFIX,dataflow.biliapi.com
