@@ -23,6 +23,7 @@ IP-CIDR,203.209.250.0/24,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR,203.107.6.0/23,no-resolve
 IP-CIDR,203.119.204.0/24,no-resolve
+IP-CIDR,203.119.206.0/24,no-resolve
 IP-CIDR,203.119.238.0/24,no-resolve
 DOMAIN,httpdns.alicdn.com
 DOMAIN,httpdns-api.aliyuncs.com
