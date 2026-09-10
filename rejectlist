@@ -203,3 +203,12 @@ DOMAIN,api.biliapi.net
 DOMAIN,app.biliapi.net
 DOMAIN-SUFFIX,hzshudian.com
 DOMAIN-SUFFIX,analytics.tuhu.com
+DOMAIN,ad.shihuo.cn
+DOMAIN,log.shihuo.cn
+DOMAIN,stat.shihuo.cn
+DOMAIN,ad.hupu.com
+DOMAIN,stat.hupu.com
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,czb365.com
+DOMAIN,ad.amap.com
+DOMAIN,logs.amap.com
