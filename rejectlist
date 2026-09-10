@@ -26,6 +26,8 @@ IP-CIDR,203.107.6.0/23,no-resolve
 IP-CIDR,203.119.204.0/24,no-resolve
 IP-CIDR,203.119.206.0/24,no-resolve
 IP-CIDR,203.119.238.0/24,no-resolve
+DOMAIN,extshort.weixin.qq.com
+DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN,httpdns.alicdn.com
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns-sc.aliyuncs.com
@@ -184,7 +186,7 @@ DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,zhenidc.cn
 DOMAIN-SUFFIX,gzjyh.com
-DOMAIN-SUFFIX,cube.weixinbridge.com
+
 DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,colorfulclouds.net
 DOMAIN-SUFFIX,ucweb.com
