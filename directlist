@@ -6,9 +6,6 @@ IP-CIDR,120.204.0.0/24,no-resolve
 IP-CIDR,183.232.143.0/24,no-resolve
 IP-CIDR,221.181.99.0/24,no-resolve
 IP-CIDR,223.109.215.0/24,no-resolve
-
-
-
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,apple.com
@@ -77,3 +74,6 @@ DOMAIN-SUFFIX,tuhu.org
 DOMAIN-SUFFIX,dewu.com
 DOMAIN,xiaoxiongyouhao.com
 DOMAIN-SUFFIX,cibntv.net
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytecdn.com
