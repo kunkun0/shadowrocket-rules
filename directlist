@@ -52,6 +52,8 @@ DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,wxgateway.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
 
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,tencent.com
@@ -82,4 +84,6 @@ DOMAIN-SUFFIX,bytecdn.com
 DOMAIN,mum.alibabachengdun.net
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,300hu.com
+DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,alibaba.com
