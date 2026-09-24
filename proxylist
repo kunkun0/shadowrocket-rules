@@ -1,7 +1,18 @@
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN,accountcapabilities-pa.googleapis.com
+DOMAIN,gemini.gstatic.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,fuckip.me
 
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
