@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,dataflow.biliapi.com
 DOMAIN-SUFFIX,cm.bilibili.com
 DOMAIN-SUFFIX,biligame.com
 
+DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
@@ -222,3 +223,7 @@ DOMAIN,mars.jd.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN-SUFFIX,qchannel03.cn
 DOMAIN-SUFFIX,qchannel01.cn
+DOMAIN,h-adashx.ut.dingtalk.com
+DOMAIN,dualstack-logs.amap.com
+DOMAIN,crash.xiaohongshu.com
+DOMAIN-SUFFIX,tpns.tencent.com
