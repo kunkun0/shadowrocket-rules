@@ -52,7 +52,9 @@ DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,data.bilibili.com
 DOMAIN-SUFFIX,dataflow.biliapi.com
 DOMAIN-SUFFIX,cm.bilibili.com
+DOMAIN-SUFFIX,mall.bilibili.cn
 DOMAIN-SUFFIX,biligame.com
+DOMAIN,miniapp.bilibili.com
 
 DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,gdt.qq.com
@@ -227,3 +229,4 @@ DOMAIN,h-adashx.ut.dingtalk.com
 DOMAIN,dualstack-logs.amap.com
 DOMAIN,crash.xiaohongshu.com
 DOMAIN-SUFFIX,tpns.tencent.com
+DOMAIN,broadcast.chat.bilibili.com
