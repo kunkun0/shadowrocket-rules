@@ -240,10 +240,10 @@ DOMAIN-SUFFIX,sofire.baidu.com
 DOMAIN-SUFFIX,log.cmbchina.com
 DOMAIN-SUFFIX,loggw.alipay.com
 DOMAIN-SUFFIX,mdap.alipay.com
-DOMAIN-SUFFIX,mum.alibabachengdun.net
+DOMAIN,mum.alibabachengdun.net
 DOMAIN-SUFFIX,license.vod2.myqcloud.com
 DOMAIN-SUFFIX,collect.alipay.com
-DOMAIN-SUFFIX,amdc.m.taobao.com
+DOMAIN,amdc.m.taobao.com
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,ads-vp5.xhscdn.com
@@ -291,8 +291,8 @@ DOMAIN-SUFFIX,clientlogdep.music.163.com
 DOMAIN-SUFFIX,fp-upload.dun.163.com
 DOMAIN-SUFFIX,netapm.music.163.com
 DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,iadmat.nosdn.127.net
+DOMAIN-SUFFIX,iadmusicmat.music.126.net
 DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,
