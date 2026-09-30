@@ -251,7 +251,7 @@ DOMAIN-SUFFIX,cdn.ynuf.aliapp.org
 DOMAIN-SUFFIX,finderhy.video.qq.com
 DOMAIN-SUFFIX,apm-fe.xiaohongshu.com
 DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
-DOMAIN-SUFFIX,atoken.m.taobao.com
+DOMAIN-SUFFIX,m.taobao.com
 DOMAIN-SUFFIX,abtest.alibaba.com
 DOMAIN-SUFFIX,im-x.jd.com
 DOMAIN-SUFFIX,ccc-x.jd.com
@@ -261,9 +261,9 @@ DOMAIN-SUFFIX,ilce.alicdn.com
 DOMAIN-SUFFIX,app-monitor.ele.me
 DOMAIN-SUFFIX,th-a.pinduoduo.com
 DOMAIN-SUFFIX,th.pinduoduo.com
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,ads.cup.com.cn
+DOMAIN-SUFFIX,amap-aos-info-nogw.amap.com
+DOMAIN-SUFFIX,ut.amap.com
 DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,
