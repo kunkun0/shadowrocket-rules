@@ -26,7 +26,6 @@ IP-CIDR,203.107.6.0/23,no-resolve
 IP-CIDR,203.119.204.0/24,no-resolve
 IP-CIDR,203.119.206.0/24,no-resolve
 IP-CIDR,203.119.238.0/24,no-resolve
-
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN,httpdns.alicdn.com
 DOMAIN,httpdns-api.aliyuncs.com
@@ -40,7 +39,6 @@ DOMAIN,dns.weixin.qq.com.cn
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN,firebaselogging-pa.googleapis.com
-
 DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,lng.xiaohongshu.com
 DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
@@ -55,7 +53,6 @@ DOMAIN-SUFFIX,cm.bilibili.com
 DOMAIN-SUFFIX,mall.bilibili.cn
 DOMAIN-SUFFIX,biligame.com
 DOMAIN,miniapp.bilibili.com
-
 DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,e.qq.com
@@ -189,7 +186,6 @@ DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,zhenidc.cn
 DOMAIN-SUFFIX,gzjyh.com
-
 DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,colorfulclouds.net
 DOMAIN-SUFFIX,ucweb.com
@@ -251,7 +247,6 @@ DOMAIN-SUFFIX,cdn.ynuf.aliapp.org
 DOMAIN-SUFFIX,finderhy.video.qq.com
 DOMAIN-SUFFIX,apm-fe.xiaohongshu.com
 DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
-
 DOMAIN-SUFFIX,abtest.alibaba.com
 DOMAIN-SUFFIX,im-x.jd.com
 DOMAIN-SUFFIX,ccc-x.jd.com
@@ -296,11 +291,3 @@ DOMAIN-SUFFIX,iadmusicmat.music.126.net
 DOMAIN,atoken.m.taobao.com
 DOMAIN,statichf.shihuocdn.cn
 DOMAIN,api-adservices.apple.com
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
