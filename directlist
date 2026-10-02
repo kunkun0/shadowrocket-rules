@@ -33,14 +33,12 @@ DOMAIN-SUFFIX,webankwealth.com
 DOMAIN-SUFFIX,webankwealthcdn.net
 DOMAIN-SUFFIX,webank.com
 DOMAIN-SUFFIX,tctpwebank.com
-
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,yangkeduo.com
-
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,amemv.com
@@ -54,7 +52,6 @@ DOMAIN-SUFFIX,wxgateway.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,alibabachengdun.com
-
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,doh.pub
@@ -76,12 +73,11 @@ DOMAIN-SUFFIX,zgglyun.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,tuhu.org
 DOMAIN-SUFFIX,dewu.com
-DOMAIN,xiaoxiongyouhao.com
+DOMAIN-SUFFIX,xiaoxiongyouhao.com
 DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,bytecdn.com
-DOMAIN,mum.alibabachengdun.net
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,300hu.com
@@ -96,4 +92,4 @@ DOMAIN-SUFFIX,idouyinvod.com
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,kunlunjyk.com
 DOMAIN-SUFFIX,sinopec.com
-DOMAIN,umdc.alibabachengdun.net
+DOMAIN-SUFFIX,alibabachengdun.net
