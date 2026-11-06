@@ -11,7 +11,6 @@ IP-CIDR,139.95.0.0/16,no-resolve
 IP-CIDR,183.232.143.0/24,no-resolve
 IP-CIDR,221.181.99.0/24,no-resolve
 IP-CIDR,223.109.215.0/24,no-resolve
-DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,qq.com
